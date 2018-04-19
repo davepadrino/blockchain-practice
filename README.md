@@ -1,1 +1,2 @@
-# blockchain-practice
+# chuxie-chain
+Blockchain server
